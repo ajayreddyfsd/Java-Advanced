@@ -1,4 +1,8 @@
 // Animal.java
+// interfaces may have multiple method types like abstract, default, static, private.
+// but our business is only with giving body to those bastract method inside that class implementation
+// if u need to use IF's default or statuic methods then u r welcome, but use it accordingly to the rules
+// ofcourse, private is private
 
 public interface Animal {
 
